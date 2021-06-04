@@ -2,11 +2,13 @@ local container = {}
 -- Recipe
 local recipe = table.deepcopy(data.raw["recipe"]["rail"])
 recipe.name = "ncr-rail"
+recipe.localised_name = {"recipe-name.ncr-rail"}
 recipe.result = "ncr-rail"
 table.insert(container, recipe)
 -- Item
 local item = table.deepcopy(data.raw["rail-planner"]["rail"])
 item.name = "ncr-rail"
+item.localised_name = {"item-name.ncr-rail"}
 item.place_result = "ncr-straight-rail"
 item.straight_rail = "ncr-straight-rail"
 item.curved_rail = "ncr-curved-rail"
