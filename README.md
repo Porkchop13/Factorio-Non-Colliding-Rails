@@ -2,9 +2,9 @@
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Porkchop13/Factorio-Non-Colliding-Rails/Lint?label=lint)
 ![GitHub](https://img.shields.io/github/license/Porkchop13/Factorio-Non-Colliding-Rails)
 
-# Factorio-Non-Colliding-Rails
+# Non-Colliding Rails
 
-Rails that don't collide, for use in guiding Renai Transportation jumps
+Factorio mod adding rails that don't collide, for use in guiding Renai Transportation jumps
 
 ## Translation
 
